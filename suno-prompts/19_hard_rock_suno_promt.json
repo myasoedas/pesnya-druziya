@@ -1,0 +1,105 @@
+Заголовок: Друзья — Hard Rock Legend (Stadium Gen Z Anthem)
+Стили: Hard Rock, Stadium Rock, Arena Anthem, Classic Rock, Power Rock
+Исключённые стили: Jazz, Lo-fi, Opera, Minimal, Ambient, Acoustic Ballad
+
+{
+  "language": ["Russian"],
+  "duration": ["2m30s"],
+  "bpm": [132],
+  "key": ["E major"],
+  "instruments": "[heavy stadium rock drums, double-kick bursts, dual overdrive rhythm guitars L/R, screaming lead guitar (wah, bends, slides), punchy bass, stomp&clap FX, crowd FX, fireworks, wide organ pad]",
+  "vocals": {
+    "lead": "[male, gritty, powerful, raspy, doubled in choruses, center, stadium reverb]",
+    "backing": "[female, bright harmonies, wide stereo]",
+    "crowd": "[massive gang shouts, stomps&claps, call-and-response]"
+  },
+  "mood": "[epic, rebellious, uniting, unstoppable, high-voltage energy, festival roar]",
+  "mix": "[stadium master, thunderous lows, crisp highs, snare crack, wall of guitars, live ambience, streaming-optimized]",
+  "target_audience": "[Gen Z 16–24, viral Yappy potential, biker/festival anthem]",
+  "structure": [
+    {
+      "part": "[Intro 0-8s: crowd roar, stomps&claps, feedback squeal, drum fill]",
+      "lyrics": "Hello Russia!!! Russian People!!! Wow!!!"
+    },
+    {
+      "part": "[Verse 1: driving guitar riff, tight groove, bass locked]",
+      "lyrics": [
+        "Вместе в огне и в дождь,",
+        "Нам не сломать этот путь!",
+        "Друзья навеки мы,",
+        "Живём, чтоб землю трясти!"
+      ]
+    },
+    {
+      "part": "[Pre-Chorus: tom build-up, cymbal swell, guitars slide]",
+      "lyrics": [
+        "Сквозь ветра, сквозь города,",
+        "Свет дороги нам всегда!"
+      ]
+    },
+    {
+      "part": "[Chorus 1: wall of guitars, gang vocals + crowd]",
+      "lyrics": [
+        "Друзья на веки! (Хэй!)",
+        "Живём без меры! (Оу!)",
+        "Друзья на веки! (Хэй!)",
+        "Душа без двери! (Оу!)"
+      ]
+    },
+    {
+      "part": "[Anthem Break A Cappella: only stomps&claps + crowd]",
+      "lyrics": [
+        "Друзья на веки! Друзья на веки!",
+        "Мы вместе всегда!"
+      ]
+    },
+    {
+      "part": "[Verse 2: heavier chugs, bass drive, fills]",
+      "lyrics": [
+        "Гром под колёсами вдаль,",
+        "Ветер не сможет нас взять!",
+        "Смех и наш рок-н-ролл,",
+        "Бьётся сердце в ритм дорог!"
+      ]
+    },
+    {
+      "part": "[Pre-Chorus (repeat): bigger fills, cymbal crashes]",
+      "lyrics": [
+        "Сквозь ветра, сквозь города,",
+        "Свет дороги нам всегда!"
+      ]
+    },
+    {
+      "part": "[Arena Break: crowd call&response, guitars hold power chords]",
+      "lyrics": [
+        "Эй-о! Эй-о!",
+        "Мы — друзья навеки!"
+      ]
+    },
+    {
+      "part": "[Guitar Solo: 16 bars, Angus Young style, firework FX]",
+      "lyrics": ""
+    },
+    {
+      "part": "[Final Chorus: max energy, gang vocals + crowd, all instruments]",
+      "lyrics": [
+        "Друзья на веки! (Хэй!)",
+        "Живём без меры! (Оу!)",
+        "Друзья на веки! (Хэй!)",
+        "Душа без двери! (Оу!)"
+      ]
+    },
+    {
+      "part": "[Stadium Sing-Along x3: a cappella + stomps&claps, louder each time]",
+      "lyrics": [
+        "Друзья на веки, мы вместе всегда!",
+        "Друзья на веки, мы вместе всегда!",
+        "Друзья на веки, мы вместе всегда!"
+      ]
+    },
+    {
+      "part": "[Outro: sustained E5 chord, feedback, final snare hit, crowd cheer fade]",
+      "lyrics": "Мы — друзья!"
+    }
+  ]
+}

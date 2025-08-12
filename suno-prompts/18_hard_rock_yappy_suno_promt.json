@@ -1,0 +1,110 @@
+Заголовок:
+Друзья — Hard Rock x EDM Stadium Anthem (Gen Z Viral Mix)
+
+Стили:
+Hard Rock, Stadium Rock, Arena Anthem, EDM Rock Fusion, Festival Rock, Power Rock, Anthemic Chant
+
+Исключённые стили:
+Jazz, Lo-fi, Opera, Minimal, Ambient, Demo, Acoustic Ballad
+
+{
+  "language": ["Russian"],
+  "duration": ["2m30s"],
+  "bpm": [132],
+  "key": ["E major"],
+  "instruments": "[stadium rock drums, EDM layered kick, dual overdrive rhythm guitars L/R, screaming lead guitar (wah, bends, tapping), punchy pick bass, wide synth pads, supersaw lead sidechained, trap hi-hats in EDM drop, stomp&clap FX, huge crowd FX, sub drops, risers, fireworks]",
+  "vocals": {
+    "lead": "[male, powerful, gritty, doubled in choruses, center, stadium reverb]",
+    "backing": "[female, bright harmonies, wide stereo, airy highs]",
+    "crowd": "[huge gang shouts, stomps&claps, call-and-response, festival chant]"
+  },
+  "mood": "[epic, rebellious, uniting, unstoppable, adrenaline, festival energy]",
+  "mix": "[stadium master, fat lows, sharp snare crack, massive guitar walls, crystal highs, wide stereo, live ambience, streaming-optimized]",
+  "target_audience": "[Gen Z 16–24, TikTok/Yappy viral potential, biker/festival anthem]",
+  "structure": [
+    {
+      "part": "[[Intro: crowd roar, stomps&claps, guitar feedback squeal, riser → drop]]",
+      "lyrics": "Hello Russia!!! Russian People!!! Wow!!!"
+    },
+    {
+      "part": "[[Verse 1: driving guitar riff + kick groove]]",
+      "lyrics": [
+        "Вместе в огне и в дождь,",
+        "Нас не пугает ночь!",
+        "Друзья навеки мы,",
+        "Один за всех — и все за одного!"
+      ]
+    },
+    {
+      "part": "[[Pre-Chorus: tom build-up, cymbal swell, guitars slide]]",
+      "lyrics": [
+        "Сквозь ветра, сквозь города,",
+        "Нам с тобой всегда туда!"
+      ]
+    },
+    {
+      "part": "[[Chorus 1: full guitar wall, gang vocals + crowd chant]]",
+      "lyrics": [
+        "Друзья на веки! (Хэй!)",
+        "Живём без меры! (Оу!)",
+        "Друзья на веки! (Хэй!)",
+        "Душа без двери! (Оу!)"
+      ]
+    },
+    {
+      "part": "[[Chant Break: stomps&claps, crowd sings a cappella, bass build]]",
+      "lyrics": [
+        "Друзья на веки! Друзья на веки!",
+        "Мы вместе всегда!"
+      ]
+    },
+    {
+      "part": "[[Verse 2: palm-muted chugs + bass growl, groove tighter]]",
+      "lyrics": [
+        "На дороге свет и гром,",
+        "Мы летим своим путём!",
+        "Смех и наш рок-н-ролл,",
+        "Вместе сердце бьётся в такт!"
+      ]
+    },
+    {
+      "part": "[[Pre-Chorus repeat: bigger fills, bass climb]]",
+      "lyrics": [
+        "Сквозь ветра, сквозь города,",
+        "Нам с тобой всегда туда!"
+      ]
+    },
+    {
+      "part": "[[EDM Drop: supersaw + guitar riff, trap hats, crowd 'эй-о']]",
+      "lyrics": [
+        "Эй-о! Эй-о!",
+        "Мы — друзья навеки!"
+      ]
+    },
+    {
+      "part": "[[Guitar Solo: 12 bars, Angus Young meets Slash, crowd 'о-о-о']]",
+      "lyrics": "[инструментальное соло]"
+    },
+    {
+      "part": "[[Final Chorus: max energy, crowd scream, fireworks FX]]",
+      "lyrics": [
+        "Друзья на веки! (Хэй!)",
+        "Живём без меры! (Оу!)",
+        "Друзья на веки! (Хэй!)",
+        "Душа без двери! (Оу!)"
+      ]
+    },
+    {
+      "part": "[[Stadium Sing-Along x3: a cappella + stomps&claps, huge cheer fade]]",
+      "lyrics": [
+        "Друзья на веки, мы вместе всегда!",
+        "Друзья на веки, мы вместе всегда!",
+        "Друзья на веки, мы вместе всегда!"
+      ]
+    },
+    {
+      "part": "[[Outro: sustained E5 chord, feedback tail, final snare hit]]",
+      "lyrics": "Мы — друзья!"
+    }
+  ]
+}
