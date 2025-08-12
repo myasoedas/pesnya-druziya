@@ -5,10 +5,10 @@
 Исключённые стили: Jazz, Lo-fi, Opera, Demo, Minimal, Ambient
 
 {
-  "language": "Russian",
-  "duration": "2m30s",
-  "bpm": 120,
-  "key": "C major",
+  "language": ["Russian"],
+  "duration": ["2m30s"],
+  "bpm": [120],
+  "key": ["C major"],
   "instruments": "[Instr: stadium rock drums, layered EDM kick, octave supersaw synths (sidechained), acoustic guitar L, bright piano R, deep bass center, wide synth pads, overdrive electric guitar lead, extended stadium guitar solo, crowd FX, claps, kids choir]",
   "vocals": {
     "lead": "[Instr: female, warm, bright, joyful, double-tracked in choruses, center, stadium reverb]",
@@ -21,7 +21,7 @@
   "structure": [
     {
       "part": "[Instr: Intro – 10s, acoustic guitar + piano, crowd murmur, kids laughter, soft claps, synth pad swell]",
-      "lyrics": "Hello Russia!!! Na zdorovieeee!!! (африканская распевка: Вааайо, вааайо, хэй!)"
+      "lyrics": "Hello Russia!!! Russian People!!! Na zdorovieeee!!! [африканская распевка:] Вааайо, вааайо, хэй!"
     },
     {
       "part": "[Instr: Verse 1 – female lead, warm, acoustic guitar + piano groove, light kick, subtle pad]",
