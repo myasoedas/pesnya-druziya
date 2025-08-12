@@ -1,0 +1,102 @@
+Заголовок: Друзья — Гимн дружбы (Yappy Arena Anthem)
+
+Стили: K-POP, Pop Rock, Happy, Upbeat, Kids Pop, EDM Anthem, Stadium Rock
+
+Исключённые стили: Jazz, Lo-fi, Opera, Demo, Minimal, Ambient
+
+{
+  "language": "Russian",
+  "duration": "2m30s",
+  "bpm": 120,
+  "key": "C major",
+  "instruments": "[Instr: stadium rock drums, layered EDM kick, octave supersaw synths (sidechained), acoustic guitar L, bright piano R, deep bass center, wide synth pads, overdrive electric guitar lead, extended stadium guitar solo, crowd FX, claps, kids choir]",
+  "vocals": {
+    "lead": "[Instr: female, warm, bright, joyful, double-tracked in choruses, center, stadium reverb]",
+    "backing": "[Instr: male, energetic, harmonizing, wide stereo, clear, stadium delay]",
+    "choir": "[Instr: kids, playful, bright, triple-tracked, wide stereo, stadium ambience]"
+  },
+  "mood": "[Instr: joyful, friendship, anthemic, uplifting, heartwarming, high-energy, festival]",
+  "mix": "[Instr: full stadium master, punchy bass, crystal highs, layered crowd ambience, streaming-optimized, child-safe EQ]",
+  "target_audience": "[Instr: children and teens 7–18 in Russia, viral Yappy potential, stadium sing-along]",
+  "structure": [
+    {
+      "part": "[Instr: Intro – 10s, acoustic guitar + piano, crowd murmur, kids laughter, soft claps, synth pad swell]",
+      "lyrics": "Hello Russia!!! Na zdorovieeee!!! (африканская распевка: Вааайо, вааайо, хэй!)"
+    },
+    {
+      "part": "[Instr: Verse 1 – female lead, warm, acoustic guitar + piano groove, light kick, subtle pad]",
+      "lyrics": [
+        "Друг — это ты и я,",
+        "Вместе всегда семья.",
+        "Смеёмся и поём,",
+        "Всегда вдвоём-втроём!"
+      ]
+    },
+    {
+      "part": "[Instr: Pre-Chorus – snare build-up, bass drop out, supersaw pad rise]",
+      "lyrics": [
+        "Мы идём сквозь все ветра,",
+        "Нас согреет доброта!"
+      ]
+    },
+    {
+      "part": "[Instr: Chorus – all voices + kids choir, stadium claps, electric guitar riffs, supersaw chords, crowd cheer]",
+      "lyrics": [
+        "Друзья мы все дружны, и я, и ты, и ты!",
+        "Друзья мы все дружны, всегда добры!"
+      ]
+    },
+    {
+      "part": "[Instr: Chorus repeat with stadium crowd louder]",
+      "lyrics": [
+        "Друзья мы все дружны, и я, и ты, и ты!",
+        "Друзья — это семья, и мы одни!"
+      ]
+    },
+    {
+      "part": "[Instr: Chorus repeat third time, crowd max volume, fireworks FX]",
+      "lyrics": [
+        "Друзья мы все дружны, и я, и ты, и ты!",
+        "Друзья — это семья, и мы одни!"
+      ]
+    },
+    {
+      "part": "[Instr: Verse 2 – male lead + female backing, playful energy, bass groove stronger, syncopated drums, synth arps]",
+      "lyrics": [
+        "Друг может пошутить,",
+        "И горой за тебя стоять.",
+        "Я знаю, если грустно —",
+        "Ты рядом, чтоб меня обнять!"
+      ]
+    },
+    {
+      "part": "[Instr: Pre-Chorus – build-up + crowd clap sync]",
+      "lyrics": [
+        "Мы идём сквозь все ветра,",
+        "Нас согреет доброта!"
+      ]
+    },
+    {
+      "part": "[Instr: EDM Drop / Anthem Break – massive supersaw lead, sub bass hit, extended stadium guitar solo (tapping, bends, whammy), crowd call & response]",
+      "lyrics": [
+        "О-о-о-о! (Толпа)",
+        "Друзья навеки!"
+      ]
+    },
+    {
+      "part": "[Instr: Final Chorus – all together, max stadium energy, triple-layered vocals, kids choir, fireworks FX]",
+      "lyrics": [
+        "Друзья мы все дружны, и я, и ты, и ты!",
+        "Друзья мы все дружны, всегда добры!",
+        "Друзья мы все дружны, и я, и ты, и ты!",
+        "Друзья — это семья, и мы одни!",
+        "Друзья — это семья, и мы одни!",
+        "Друзья — это семья, и мы одни!"
+      ]
+    },
+    {
+      "part": "[Instr: Outro – sustained C major chord, guitar bend, crowd cheer fade, fireworks FX, soft piano ending]",
+      "lyrics": "(Смех) Друзья!"
+    }
+  ]
+}
