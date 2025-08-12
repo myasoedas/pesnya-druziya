@@ -5,10 +5,10 @@
 Исключённые стили: Jazz, Lo-fi, Opera, Demo
 
 {
-  "language": "Russian",
-  "duration": "2m30s",
-  "bpm": 120,
-  "key": "C major",
+  "language": ["Russian"],
+  "duration": ["2m30s"],
+  "bpm": [120],
+  "key": ["C major"],
   "instruments": "[Instr: acoustic guitar (left), piano (right), pop drums (center), bass (center), synth pads (stereo wide)]",
   "vocals": {
     "lead": "[Instr: female, warm, bright, joyful, center, slightly compressed]",
