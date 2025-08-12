@@ -1,0 +1,88 @@
+Заголовок: Друзья (Friends Forever)
+
+Стили: K-POP, Pop Rock, Happy, Upbeat, Kids Pop
+
+Исключённые стили: Jazz, Lo-fi, Opera, Demo
+
+{
+  "language": "Russian",
+  "duration": "2m30s",
+  "bpm": 120,
+  "key": "C major",
+  "instruments": "[Instr: acoustic guitar (left), piano (right), pop drums (center), bass (center), synth pads (stereo wide)]",
+  "vocals": {
+    "lead": "[Instr: female, warm, bright, joyful, center, slightly compressed]",
+    "backing": "[Instr: male, energetic, clear, wide stereo, softer mix]",
+    "choir": "[Instr: kids, playful, bright, double-tracked, wide stereo, in chorus]"
+  },
+  "mood": "[Instr: joyful, friendship, playful, uplifting, heartwarming]",
+  "mix": "[Instr: full master, polished, radio-ready, streaming optimized, wide stereo, punchy bass, clear vocals, child-safe EQ]",
+  "target_audience": "[Instr: children and teens 7–18 years old in Russia, designed for viral potential in Yappy]",
+  "structure": [
+    {
+      "part": "[Instr: Intro – 10s, acoustic guitar + piano, kids laughing & claps]",
+      "lyrics": "Друзья мы все дружны! (смех, хлопки)"
+    },
+    {
+      "part": "[Instr: Verse 1 – female lead, warm & bright, light groove]",
+      "lyrics": [
+        "Друг — это ты и я,",
+        "Вместе всегда семья.",
+        "Смеёмся и поём,",
+        "Всегда вдвоём-втроём!"
+      ]
+    },
+    {
+      "part": "[Instr: Chorus – kids choir + male/female duet, wide stereo, full energy, claps in rhythm]",
+      "lyrics": [
+        "Друзья мы все дружны, и я, и ты, и ты!",
+        "Друзья мы все дружны, всегда добры!",
+        "Друзья мы все дружны, и я, и ты, и ты!",
+        "Друзья — это семья, и мы одни!"
+      ]
+    },
+    {
+      "part": "[Instr: Verse 2 – male lead + female backing, playful energy, bass more prominent]",
+      "lyrics": [
+        "Друг может пошутить,",
+        "И горой за тебя стоять.",
+        "Я знаю, если грустно —",
+        "Ты рядом, чтоб меня обнять!"
+      ]
+    },
+    {
+      "part": "[Instr: Chorus – repeat, more energy, added crowd cheer FX]",
+      "lyrics": [
+        "Друзья мы все дружны, и я, и ты, и ты!",
+        "Друзья мы все дружны, всегда добры!",
+        "Друзья мы все дружны, и я, и ты, и ты!",
+        "Друзья — это семья, и мы одни!"
+      ]
+    },
+    {
+      "part": "[Instr: Bridge – call & response, instrumental break with claps]",
+      "lyrics": [
+        "Будь добрым ты во всём!", 
+        "(Да!)",
+        "Будь дружней со всеми!", 
+        "(Да!)",
+        "Мы друзья навеки!"
+      ]
+    },
+    {
+      "part": "[Instr: Final Chorus – all together, max energy, kids choir on top, double claps]",
+      "lyrics": [
+        "Друзья мы все дружны, и я, и ты, и ты!",
+        "Друзья мы все дружны, всегда добры!",
+        "Друзья мы все дружны, и я, и ты, и ты!",
+        "Друзья — это семья, и мы одни!",
+        "Друзья — это семья, и мы одни!",
+        "Друзья — это семья, и мы одни!"
+      ]
+    },
+    {
+      "part": "[Instr: Outro – fade out, kids laughing, soft piano ending]",
+      "lyrics": "(Смех) Друзья!"
+    }
+  ]
+}

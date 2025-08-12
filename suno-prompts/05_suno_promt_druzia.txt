@@ -1,0 +1,23 @@
+Title: Друзья (Friends Forever)
+Styles: K-POP, Pop Rock, Happy, Upbeat, Kids Pop
+Exclude Styles: Jazz, Lo-fi, Opera, Demo
+
+Prompt:
+Language: Russian
+Duration: 2m30s
+BPM: 120 upbeat
+Key: C major
+Instruments: acoustic guitar, piano, pop drums, bass, synth pads
+Vocals: female lead (warm, bright), male backing (energetic, clear), kids choir in chorus
+Mood: joyful, friendship, playful
+Structure:
+- Intro (10s, acoustic guitar + piano)
+- Verse 1 (female lead)
+- Chorus (kids choir + male/female duet)
+- Verse 2 (male lead + backing)
+- Bridge (instrumental break with claps)
+- Final Chorus (all together)
+- Outro (fade out, kids laughing)
+Lyrics:
+[тут вставляем адаптированный текст Ярославы]
+Mix: studio mastered, radio ready, full dynamic range

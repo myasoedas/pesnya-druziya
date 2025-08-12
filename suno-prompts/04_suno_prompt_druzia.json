@@ -1,0 +1,19 @@
+{
+    "title": "ДРУЗЬЯ ❤️ Friends Forever (Весёлая песня про дружбу для детей)",
+    "styles": [
+        "Kids Pop",
+        "K-Pop Bright",
+        "Upbeat Pop Rock",
+        "J-Pop Happy",
+        "Radio Ready",
+        "Streaming Optimized"
+    ],
+    "prompt": "Theme: Fun, friendship, kindness, and togetherness — perfect for children and teenagers, 7-18 years old.\nIntro (0-10s): Upbeat, bright instrumental intro with claps and playful synths, no silence before start.\nVerse 1 (10-30s): Youthful bright female lead (age 15 tone), friendly and warm male harmonies. Lyrics about \"Я и ты — друзья, мы вместе всегда\".\nChorus (30-50s): Energetic, layered kids choir with harmonies, claps and stomps, joyful melody, catchy hook: \"Друзья! Мы все дружны! И я, и ты, и ты — мы навсегда!\"\nVerse 2 (50-70s): Call-and-response style between female and male voices, playful, smiling tone. Add light guitar strumming and upbeat drum fills.\nChorus 2 (70-90s): Full kids choir, extra percussion (tambourines, claps), bright synths.\nBridge (90-110s): Breakdown with only claps, bass, and voices chanting “Друзья — это мы, семья, всегда вместе!”, then a build-up.\nFinal Chorus (110-140s): Big festival-style choir, layered harmonies, upbeat full band, strong drumbeat, bright cymbals.\nOutro (140-150s): Short, joyful fade-out with claps and laughter.\nMix: Studio mastered, compressed for streaming platforms, optimized for mobile speakers, balanced for clarity and energy.\nExclude: Auto-tune effects, lo-fi intros, jazz or blues elements, slow fade-in.",
+    "excluded_styles": [
+        "Lo-Fi",
+        "Jazz",
+        "Blues",
+        "Acoustic Ballad",
+        "Heavy EDM"
+    ]
+}
