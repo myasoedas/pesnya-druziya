@@ -1,0 +1,82 @@
+{
+  "language": "Russian",
+  "duration": "2m30s",
+  "bpm": 120,
+  "key": "C major",
+  "instruments": "[Instr: acoustic guitar (left), bright piano (right), pop drums with stadium tom fills (center), electric bass with sub support (center), electric guitar lead with high gain for solo (stereo), modern synth pads & arpeggiator (wide stereo), crowd claps & cheer FX (surround)]",
+  "vocals": {
+    "lead": "[Instr: female, warm, bright, joyful, center, slightly compressed, stadium reverb]",
+    "backing": "[Instr: male, energetic, clear, wide stereo, softer mix]",
+    "choir": "[Instr: kids + audience crowd, playful, bright, double-tracked, wide stereo, especially in final choruses]"
+  },
+  "mood": "[Instr: joyful, friendship, playful, uplifting, heartwarming, stadium anthem energy]",
+  "mix": "[Instr: full master, polished, radio-ready, streaming optimized, wide stereo, punchy bass, clear vocals, child-safe EQ, concert reverb]",
+  "target_audience": "[Instr: children and teens 7–18 years old in Russia, designed for viral potential in Yappy, sing-along friendly]",
+  "structure": [
+    {
+      "part": "[Instr: Intro – 10s, acoustic guitar + piano, kids laughing & claps, crowd ambience fade-in]",
+      "lyrics": "Друзья мы все дружны! (смех, хлопки, аплодисменты)"
+    },
+    {
+      "part": "[Instr: Verse 1 – female lead, warm & bright, light groove, acoustic guitar + piano upfront]",
+      "lyrics": [
+        "Друг — это ты и я,",
+        "Вместе всегда семья.",
+        "Смеёмся и поём,",
+        "Всегда вдвоём-втроём!"
+      ]
+    },
+    {
+      "part": "[Instr: Chorus – kids choir + male/female duet, stadium claps in rhythm, synth pads filling space]",
+      "lyrics": [
+        "Друзья мы все дружны, и я, и ты, и ты!",
+        "Друзья мы все дружны, всегда добры!",
+        "Друзья мы все дружны, и я, и ты, и ты!",
+        "Друзья — это семья, и мы одни!"
+      ]
+    },
+    {
+      "part": "[Instr: Verse 2 – male lead + female backing, playful energy, electric guitar riff support, bass groove]",
+      "lyrics": [
+        "Друг может пошутить,",
+        "И горой за тебя стоять.",
+        "Я знаю, если грустно —",
+        "Ты рядом, чтоб меня обнять!"
+      ]
+    },
+    {
+      "part": "[Instr: Chorus – repeat, more energy, added crowd cheer FX, synth arpeggiator brighter]",
+      "lyrics": [
+        "Друзья мы все дружны, и я, и ты, и ты!",
+        "Друзья мы все дружны, всегда добры!",
+        "Друзья мы все дружны, и я, и ты, и ты!",
+        "Друзья — это семья, и мы одни!"
+      ]
+    },
+    {
+      "part": "[Instr: Bridge – electric guitar solo (anime rock style, high energy, bends, fast picking) + crowd claps]",
+      "lyrics": [
+        "Будь добрым ты во всём!", 
+        "(Да!)",
+        "Будь дружней со всеми!", 
+        "(Да!)",
+        "Мы друзья навеки!"
+      ]
+    },
+    {
+      "part": "[Instr: Final Chorus – all together, max energy, triple repeat with crowd singing, drums & cymbal crashes, synth pads wide, double claps]",
+      "lyrics": [
+        "Друзья мы все дружны, и я, и ты, и ты!",
+        "Друзья мы все дружны, всегда добры!",
+        "Друзья мы все дружны, и я, и ты, и ты!",
+        "Друзья — это семья, и мы одни!",
+        "Друзья — это семья, и мы одни!",
+        "Друзья — это семья, и мы одни!"
+      ]
+    },
+    {
+      "part": "[Instr: Outro – fade out, kids laughing, audience cheering, soft piano ending]",
+      "lyrics": "(Смех) Друзья!"
+    }
+  ]
+}
