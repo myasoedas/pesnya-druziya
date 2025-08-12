@@ -1,0 +1,101 @@
+{
+  "language": ["Russian"],
+  "duration": ["2m30s"],
+  "bpm": [130],
+  "key": ["E major"],
+  "instruments": "[heavy stadium rock drums, layered EDM kick, dual overdrive rhythm guitars L/R, lead guitar (wah, sustain), punchy pick bass, wide synth pads, supersaw lead (sidechained) for drop, stomp&clap FX, crowd FX, fireworks]",
+  "vocals": {
+    "lead": "[male, powerful, gritty, doubled in choruses, center, stadium reverb]",
+    "backing": "[female, bright harmonies, wide stereo]",
+    "crowd": "[massive gang shouts, stomps&claps, call-and-response]"
+  },
+  "mood": "[epic, brotherhood, uniting, rebellious, unstoppable, festival energy]",
+  "mix": "[stadium master, punchy lows, snare crack, guitar walls, crystal highs, wide stereo, live ambience, streaming-optimized, child-safe EQ]",
+  "target_audience": "[Gen Z 16–24, viral Yappy potential, biker/festival anthem]",
+  "structure": [
+    {
+      "part": "[Intro 0-8s: crowd roar, stadium stomps&claps, feedback squeal, drum fill]",
+      "lyrics": "Hello Russia!!! Russian People!!! Wow!!!"
+    },
+    {
+      "part": "[Verse 1: driving riff, tight groove]",
+      "lyrics": [
+        "Вместе в огне и в дождь,",
+        "Нас не пугает ночь!",
+        "Друзья навеки мы,",
+        "Один за всех — и все за одного!"
+      ]
+    },
+    {
+      "part": "[Pre-Chorus: tom build-up, cymbal swell, guitars slide]",
+      "lyrics": [
+        "Сквозь ветра, сквозь города,",
+        "Нам с тобой всегда туда!"
+      ]
+    },
+    {
+      "part": "[Chorus 1: full guitar wall, gang vocals + crowd, crash hits]",
+      "lyrics": [
+        "Друзья на веки! (Хэй!)",
+        "Живём без меры! (Оу!)",
+        "Друзья на веки! (Хэй!)",
+        "Душа без двери! (Оу!)"
+      ]
+    },
+    {
+      "part": "[Anthem Break A Cappella: instruments mute, only stomps&claps + crowd]",
+      "lyrics": [
+        "Друзья на веки! Друзья на веки!",
+        "Мы вместе всегда!"
+      ]
+    },
+    {
+      "part": "[Verse 2: palm-muted chugs, bass tougher, groove tighter]",
+      "lyrics": [
+        "На дороге свет и гром,",
+        "Мы летим своим путём!",
+        "Смех и наш рок-н-ролл,",
+        "Вместе сердце бьётся в такт!"
+      ]
+    },
+    {
+      "part": "[Pre-Chorus (repeat): bigger fills, bass climb]",
+      "lyrics": [
+        "Сквозь ветра, сквозь города,",
+        "Нам с тобой всегда туда!"
+      ]
+    },
+    {
+      "part": "[EDM Drop / Arena Break: supersaw lead sidechained, heavy kick, crowd call&response, guitars hold power chords]",
+      "lyrics": [
+        "Эй-о! Эй-о!",
+        "Мы — друзья навеки!"
+      ]
+    },
+    {
+      "part": "[Guitar Solo: 16 bars, Angus-style runs, bends, slides, feedback tail]",
+      "lyrics": ""
+    },
+    {
+      "part": "[Final Chorus: max energy, gang vocals + crowd sing-along, fireworks FX]",
+      "lyrics": [
+        "Друзья на веки! (Хэй!)",
+        "Живём без меры! (Оу!)",
+        "Друзья на веки! (Хэй!)",
+        "Душа без двери! (Оу!)"
+      ]
+    },
+    {
+      "part": "[Stadium Sing-Along x3: a cappella + stomps&claps, crowd louder each repeat]",
+      "lyrics": [
+        "Друзья на веки, мы вместе всегда!",
+        "Друзья на веки, мы вместе всегда!",
+        "Друзья на веки, мы вместе всегда!"
+      ]
+    },
+    {
+      "part": "[Outro: sustained E5 chord, feedback, final snare hit, crowd cheer fade]",
+      "lyrics": "Мы — друзья!"
+    }
+  ]
+}
